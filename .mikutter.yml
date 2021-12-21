@@ -1,0 +1,10 @@
+---
+slug: :openimg_quicklook
+depends:
+  mikutter: 4.1.0
+  plugin:
+  - openimg
+version: '1.0'
+author: shibafu
+name: Quick Look
+description: ''
